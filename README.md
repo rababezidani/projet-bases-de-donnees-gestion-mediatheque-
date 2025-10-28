@@ -1,7 +1,3 @@
-Parfait Nissrine 💪
-Voici le **texte complet tout prêt à coller directement dans ton README GitHub** (aucun code, aucun symbole — juste le texte clair et structuré 👇) :
-
----
 
 # 📚 Projet Base de Données — Gestion d’une Médiathèque
 
